@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/myproject/static/css/main.983a4f33.css",
+    "main.js": "/myproject/static/js/main.3437906b.js",
+    "static/media/singleleglift.jpg": "/myproject/static/media/singleleglift.bbd94c1cecf4b3829c27.jpg",
+    "static/media/arnoldpress.jpg": "/myproject/static/media/arnoldpress.a1142b23f16b38e267ae.jpg",
+    "static/media/home1.jpg": "/myproject/static/media/home1.be693dde4b7e1d6dddfc.jpg",
+    "static/media/dumbellbenchpress.jpg": "/myproject/static/media/dumbellbenchpress.1aa15827a99461163953.jpg",
+    "static/media/tricep.jpg": "/myproject/static/media/tricep.79bfe479ef00b40a08f0.jpg",
+    "static/media/legpress.jpg": "/myproject/static/media/legpress.2bea19e99d56037bacbd.jpg",
+    "static/media/pullup.jpg": "/myproject/static/media/pullup.3bdd6dfb9fb2220f1ad0.jpg",
+    "static/media/gobletsquad.jpg": "/myproject/static/media/gobletsquad.5fd93c37bf1b77a0a9fa.jpg",
+    "static/media/dumbbellrow.jpg": "/myproject/static/media/dumbbellrow.e24745be863311d0a245.jpg",
+    "static/media/hipthrust.jpg": "/myproject/static/media/hipthrust.45224152cf8fa82ded26.jpg",
+    "static/media/boxjumpp.jpg": "/myproject/static/media/boxjumpp.58c81dbfeb27e07003b0.jpg",
+    "static/media/pushup.jpg": "/myproject/static/media/pushup.24309e6845bef5700949.jpg",
+    "static/media/side-lunge.jpg": "/myproject/static/media/side-lunge.4fe5616271c990e34d39.jpg",
+    "static/media/squats.jpg": "/myproject/static/media/squats.44172cad06553fadb8bf.jpg",
+    "static/media/walking-lunges.jpg": "/myproject/static/media/walking-lunges.cfe2417aef92ed55124b.jpg",
+    "static/media/plank.jpg": "/myproject/static/media/plank.263230ee6076a22d2557.jpg",
+    "static/media/chestpress.jpg": "/myproject/static/media/chestpress.9f1a22e4a84fd73b7dfe.jpg",
+    "static/media/overheadpress.jpg": "/myproject/static/media/overheadpress.2899619f70924868fd4c.jpg",
+    "static/media/dumbellLunge.jpg": "/myproject/static/media/dumbellLunge.2038dc812f36d10432b4.jpg",
+    "index.html": "/myproject/index.html",
+    "main.983a4f33.css.map": "/myproject/static/css/main.983a4f33.css.map",
+    "main.3437906b.js.map": "/myproject/static/js/main.3437906b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.983a4f33.css",
+    "static/js/main.3437906b.js"
+  ]
+}
