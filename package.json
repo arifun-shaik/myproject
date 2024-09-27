@@ -1,6 +1,5 @@
 {
-  "homepage": "https://arifun-shaik.github.io/myproject",
-
+  "homepage": ".",
   "name": "trafficapi",
   "version": "0.1.0",
   "private": true,
